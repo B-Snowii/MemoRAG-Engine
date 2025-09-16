@@ -1,0 +1,704 @@
+﻿field_code,field_name,esg_bucket
+CG002,Total Salaries Paid to CEO and Equivalent,G
+CG003,Total Bonuses Paid to CEO and Equivalent,G
+CG005,Total Stock Awards Given to CEO and Equivalent,G
+CG006,Total Option Awards Given to CEO and Equivalent,G
+CG007,Total Non Equity Incentives Given to CEO & Equivalent,G
+CG042,Total Salaries Paid to Executives,G
+CG043,Total Bonuses Paid to Executives,G
+CG045,Total Stock Awards Given to Executives,G
+CG046,Total Option Awards Given to Executives,G
+CG047,Total Non Equity Incentives Given to Executives,G
+CG053,"Number of CEO & Equivalent Incl
+  Compensation Paid",G
+CG065,Number of Executives Included Compensation Paid,G
+CG072,Chief Executive Officer Tenure as of FY End,G
+CG600,Board Size,G
+CG612,Board Average Age,G
+CG627,Percentage of Board Members that are Women,G
+CG629,Chairperson or Equivalent a Woman,G
+CG649,"Number of Board Positions Chair
+  Holds",G
+CG651,Number of Board Positions CEO Holds,G
+CG653,CEO Founder (Y/N),G
+CG656,"Average Number of Public Companies
+  BOD Serve as BOD (Ex-CEO)",G
+CG675,Number of Board Members Serving > 5 Years,G
+CG676,Number of Board Members Serving > 10 Years,G
+CG677,Highest Number of Boards Any Director Serves Ex CEO,G
+CG681,Percentage of Non Executive Directors on 3+ Boards,G
+CG682,Percentage of Executive Directors on 2+ Boards,G
+CG690,Chairperson Tenure,G
+CG692,Number of Chair Positions Chairman Holds,G
+ES007,Nitrogen Oxide Emissions,ES
+ES009,VOC Emissions,ES
+ES010,Carbon Monoxide Emissions,ES
+ES011,Methane (CH4) Scope 1,ES
+ES013,Particulate Emissions,ES
+ES014,Total Energy Consumption,ES
+ES015,Renewable Energy Use,ES
+ES018,Emissions to Water,ES
+ES019,Hazardous Waste,ES
+ES020,Total Waste,ES
+ES025,Raw Materials Used,ES
+ES026,Pct Recycled Materials,ES
+ES027,Gas Flaring,ES
+ES028,Number of Spills,ES
+ES031,Phones Recycled,ES
+ES032,Number of Environmental Fines,ES
+ES033,Amount of Environmental Fines,ES
+ES035,Energy Efficiency Policy,ES
+ES036,Emissions Reduction Initiatives,ES
+ES037,"Environmental Supply Chain
+  Management",ES
+ES038,Green Building Policy,ES
+ES039,Waste Reduction Policy,ES
+ES040,Sustainable Packaging,ES
+ES041,Environmental Quality ManagementPolicy,ES
+ES042,New Products - Climate Change,ES
+ES044,Employee Turnover Pct,ES
+ES045,Pct Employees Unionized,ES
+ES046,Pct Women in Management,ES
+ES047,Pct Women in Workforce,ES
+ES048,Pct Minorities in Management,ES
+ES049,Pct Minorities in Workforce,ES
+ES057,Health and Safety Policy,ES
+ES058,Equal Opportunity Policy,ES
+ES059,Human Rights Policy,ES
+ES061,BOARD_SIZE,G
+ES062,INDEPENDENT_DIRECTORS,G
+ES064,Board Duration,G
+ES069,Business Ethics Policy,ES
+ES070,Fair Remuneration Policy,ES
+ES077,GHG Scope 2 Location-Based,ES
+ES081,Total Water Discharged,ES
+ES082,Water per Unit of Production,ES
+ES083,Amount of Spills,ES
+ES087,Sustainable/ESG Assets Under Management,ES
+ES088,Biodiversity Policy,ES
+ES091,Pct Disabled in Workforce,ES
+ES092,Lost Time Incident Rate - Employees,ES
+ES099,CEO Duality,G
+ES101,Audit Committee Meetings,G
+ES104,Waste Sent to Landfills,ES
+ES105,"Climate Change Opportunities
+  Discussed",ES
+ES106,Risks of Climate Change Discussed,ES
+ES110,"Executive Compensation Linked to
+  ESG",G
+ES112,PRI Signatory,ES
+ES115,Fatalities - Third Party,ES
+ES116,Number of Suppliers Audited,ES
+ES117,Number of Supplier Audits Conducted,ES
+ES118,Social Supply Chain Management,ES
+ES119,Number Supplier Facilities Audited,ES
+ES120,Number of Customer Complaints,ES
+ES121,Total Recordable Incident Rate - Employees,ES
+ES157,Purchased Electricity - Coal,ES
+ES158,Purchased Electricity - Gas,ES
+ES160,Purchased Electricity - Nuclear,ES
+ES161,Purchased Electricity - Hydro,ES
+ES162,Purchased Electricity - Wind,ES
+ES163,Purchased Electricity - Solar,ES
+ES164,Purchased Electricity - Biomass,ES
+ES165,Purchased Electricity - Waste,ES
+ES166,Purchased Electricity - Other Renewables,ES
+ES167,Purchased Electricity Total Renewables,ES
+ES168,Independent Lead Director,G
+ES169,Presiding Director,G
+ES171,Pct Ownership Required for Special Meeting,G
+ES173,Poison Pill Plan (Y/N),G
+ES179,Dual Class Unequal Voting Rights - Common (Y/N),G
+ES182,Auditor Years Employed,G
+ES183,Classified Board System (Y/N),G
+ES193,Unitary or Two-Tier Board System,G
+ES196,Employee Protection / Whistle Blower Policy,ES
+ES197,Anti-Bribery Ethics Policy,ES
+ES198,Sustain Sup Guidelines Encomp ESG Area Pub Disclsd,ES
+ES199,"Total Hours Spent by Firm -
+  Employee Training",ES
+ES234,"Perfluorocarbon (PFC) Scope 1 in
+  CO2 Equivalent",ES
+ES235,Sulfur Hexafluoride (SF6) Scope 1 CO2 Equivalent,ES
+ES237,Surface Water Withdrawals,ES
+ES238,Groundwater Withdrawals,ES
+ES239,Salt Water Withdrawals,ES
+ES241,Reclaimed Water,ES
+ES243,Chemical Oxygen Demand of Discharges,ES
+ES244,"Biological Oxygen Demand of
+  Discharges",ES
+ES245,Cooling Water Inflow,ES
+ES246,Cooling Water Outflow,ES
+ES247,Water Policy,ES
+ES249,Amount of Hydrocarbon Spills,ES
+ES250,Percentage of Suppliers in Non-Compliance,ES
+ES255,GHG Scope 2 Market-Based,ES
+ES257,Number of Temporary Employees,ES
+ES260,"Lost Time Incident Rate -
+  Contractors",ES
+ES261,Total Recordable Incident Rate - Contractors,ES
+ES267,Mining Overburden,ES
+ES268,Tailings Waste,ES
+ES269,Total Water Withdrawal,ES
+ES271,Nitrogen Emissions to Water,ES
+ES272,Phosphorus Emissions to Water,ES
+ES273,Independent Chairperson,G
+ES284,NUM_OF_NONEXEC_DIR_ON_BRD,G
+ES286,Cumulative Voting System (Y/N),G
+ES291,Percentage of Female Executives,ES
+ES299,Board Audit Committee Size,G
+ES300,Audit Committee Independence,G
+ES302,Audit Committee Leadership Independence,G
+ES303,Audit Committee Non-Executives,G
+ES304,Audit Committee Attendance,G
+ES305,Size of Compensation Committee,G
+ES306,NUM_IND_DIR_ON_CMPNSTN_CMTE,G
+ES308,"Independent Compensation Committee
+  Chairperson",G
+ES324,"Clawback Provision for Executive
+  Compensation",G
+ES325,Frequency of Say on Pay Votes,G
+ES332,Policy Against Child Labor,ES
+ES354,Special Meetings Allowed (Y/N),G
+ES355,Voluntary Turnover Pct,ES
+ES356,Involuntary Turnover Pct,ES
+ES366,Percent Women IT/Engineering,ES
+ES368,Intellectual Property Rights Protection Policy,ES
+ES369,Quality Assurance and Recall Policy,ES
+ES370,Consumer Data Protection Policy,ES
+ES377,Equator Principles Signatory,ES
+ES381,Renewable Electricity Target Policy,ES
+ES384,Self Generated Renewable Electricity,ES
+ES399,Carbon per Unit of Production,ES
+ES479,Gender Pay Gap Breakout,ES
+ES484,Pct Women in Middle and or Other Management,ES
+ES494,Energy Per Unit of Production,ES
+ES495,Alternative Fuel Use Percentage,ES
+ES496,Biomass Fuel Use Percentage,ES
+ES497,Water Stress Exposure Percentage,ES
+ES498,Percentage Raw Material from Sustainable Sources,ES
+ES499,Percentage Suppliers Audited,ES
+F0947,"Scope 1 Greenhouse Gas / Carbon
+  Dioxide Emissions",ES
+F0949,Sulphur Dioxide / Sulphur Oxide Emissions,ES
+F1284,Embedded Carbon in Total Reserves,ES
+F1442,Fatality Rate - Employees,ES
+F1443,Fatality Rate - Contractors,ES
+F1460,Embedded Carbon in Coal Reserves,ES
+F1588,Percent Water Recycled Derived,ES
+F1589,Water Consumption Derived,ES
+F1642,Percent Forest Area Certified Derived,ES
+FS820,Medical Loss Ratio,ES
+IM110,Audit Fees,G
+IM111,Non-Audit Fees,G
+IM190,LegalSettlement,ES
+M0872,Steam / Thermal Coal Mined Production,ES
+RX312,Training Spending per Employee,ES
+RX389,Fatality Rate - Workforce,ES
+SA002,Total GHG Emissions Covered under Regulatory Prog,ES
+SA003,"Pct GHG Emissions Covered under
+  Regulatory Prog",ES
+SA007,Manganese Emissions,ES
+SA008,Lead Emissions,ES
+SA009,PAH Emissions,ES
+SA010,Percentage Electricity of Total Energy Consumed,ES
+SA011,"Percentage Renewable Energy
+  Consumed",ES
+SA012,Total Fuel Consumed,ES
+SA013,Percentage Coal of Total Fuel Consumed,ES
+SA014,Percentage Natural Gas of Total Fuel Consumed,ES
+SA016,Percentage of Hazardous Waste,ES
+SA017,Near Miss Frequency Rate for Employees,ES
+SA018,Near Miss Frequency Rate for Contractors,ES
+SA019,Mercury (Hg) Emissions,ES
+SA020,Freshwater Withdrawals,ES
+SA021,Number of Environmental Incidents,ES
+SA022,Hazardous Waste Recycled,ES
+SA023,"Percentage of Hazardous Waste
+  Recycled",ES
+SA024,Amount of Anti - Competition Fines,ES
+SA027,Closure and Remediation Policy,ES
+SA028,"Mineral Waste Acid Rock Drain
+  Policy",ES
+SA029,Indigenous Rights Policy,ES
+SA030,Critical Materials Policy,ES
+SA031,Number of Non - Technical Delays,ES
+SA032,Duration of Non - Technical Delays,ES
+SA033,Number of Strikes and Lockouts,ES
+SA034,Duration of Strikes and Lockouts,ES
+SA035,International Council Metals and Mining Membership,ES
+SA036,Extractive Industries Transparency Init,ES
+SA048,Number of Hydrocarbon Spills,ES
+SA050,Amount Spills Environmentally Sensitive Areas,ES
+SA051,"Number Non Accident Releases Rail
+  Transportation",ES
+SA052,Tier 1 Process Safety Event Rate,ES
+SA053,Tier 2 Process Safety Event Rate,ES
+SA054,Total Process Safety Event Rate,ES
+SA055,"Percent Methane of Scope 1
+  Emissions",ES
+SA057,Hydrogen Sulfide (H2S) Emissions,ES
+SA058,Process Emissions,ES
+SA059,Emissions from Other Combustion,ES
+SA060,Vented Emissions,ES
+SA061,Fugitive Emissions,ES
+SA062,Produced Water and Flowback,ES
+SA064,Percentage of Produced Water Discharged,ES
+SA066,Percentage of Produced Water Injected,ES
+SA068,Percentage of Produced Water Recycled,ES
+SA069,Number of Significant Environmental Incidents,ES
+SA070,Fleet Fuel Used,ES
+SA071,Number Sites Environmentally Sensitive Areas,ES
+SA072,Land Disturbed,ES
+SA073,Land Restored,ES
+SA074,Percentage of Land Restored,ES
+SA075,Number of Pipeline Incidents,ES
+SA076,Percentage of Natural Gas Pipelines Inspected,ES
+SA077,Fracturing Fluid Use Policy,ES
+SA078,Percentage of Hazardous Liquid Pipelines Inspected,ES
+SA079,Investment in Sustainable Products,ES
+SA080,Vehicle Incident Rate - Employees,ES
+SA081,Vehicle Incident Rate - Contractors,ES
+SA082,Commitment to Eliminate Chemicals of Concern,ES
+SA083,Climate Scenario Analysis,ES
+SA084,Internal Carbon Pricing,ES
+SA085,Arctic Drilling Oil and Gas,ES
+SA086,Emergency Response and Preparedness Policy,ES
+SA087,Short Service Employee Program,ES
+SA088,Political Involvement Policy,ES
+SA089,PM10 Emissions,ES
+SA090,Dioxins and Furans,ES
+SA093,Percentage of Waste Recycled,ES
+SA094,Number of Fines for Anti - Competition,ES
+SA095,Anti - Competition Policy,ES
+SA096,Percentage of Contractors in Total Workforce,ES
+SA097,Number of Recalls,ES
+SA098,Number of Data Breaches,ES
+SA099,Product Data Security Policy,ES
+SA100,Data Security Risks Discussed,ES
+SA102,Executive with Responsibility for Data Security,ES
+SA103,Total Units Recalled,ES
+SA105,Number of Airworthiness Directives,ES
+SA106,Energy Efficient Product Offerings,ES
+SA107,Transparent GMO Labeling Policy,ES
+SA108,Number of Fines For Bribery And Corruption,ES
+SA109,Number of Fines For Data Breaches,ES
+SA110,Number of Fines For Product Safety,ES
+SA111,Electronic Waste,ES
+SA113,Number of Products with Eco - Labels,ES
+SA114,Percentage of Products with Eco - Labels,ES
+SA115,Remanufacturing and Take Back Programs,ES
+SA116,Percentage Revenue Products Eco Labels,ES
+SA117,Product Lifecycle Design,ES
+SA118,Hazardous Air Pollutants Emissions,ES
+SA119,Community Engagement Policy,ES
+SA120,Hazardous Waste Management Policy,ES
+SA121,Process Safety Incidents Count (PSIC),ES
+SA122,"Process Safety Incident Severity
+  Rate (PSISR)",ES
+SA124,Total Wood Procured,ES
+SA126,Percentage of Wood from Certified Sources,ES
+SA128,GHG Emissions from Power Delivery,ES
+SA131,Amount of Coal Combustion Residuals,ES
+SA132,Coal Ash Management Policy,ES
+SA133,Number of Smart Meters Installed,ES
+SA134,Number of Smart Meter Customers,ES
+SA135,Smart Grid Opportunities Discussed,ES
+SA136,System Average Interruption Duration Index,ES
+SA137,System Average Interruption Frequency Index,ES
+SA138,"Customer Average Interruption
+  Duration Index",ES
+SA139,Number of Nuclear Power Units,ES
+SA141,Nuclear Waste,ES
+SA142,Emissions Free Production,ES
+SA145,Number of Disconnections for Non-Payment,ES
+SA146,Service Continuity Policy,ES
+SA147,Fixed Assets Management PPE Policy,ES
+SA148,Access and Affordability Policy,ES
+SA149,Wastewater Management Policy,ES
+SA150,Average Monthly Utility Bill,ES
+SA151,Volume of Water Loss,ES
+SA152,"Applies Restricted Substance List
+  for Suppliers",ES
+SA153,Customer Efficiency Initiatives,ES
+SA154,GHS Aligned Label,ES
+SA156,Amount of Waste Composted,ES
+SA157,Amount of Waste Incinerated,ES
+SA159,Waste Used for Energy,ES
+SA160,Percentage of Significant Pipeline Incidents,ES
+SA161,GHG Emissions Reduction Policy,ES
+SA162,Air Pollution Reduction Policy,ES
+SA163,Electronic Waste Recycled,ES
+SA164,Number of Waste-to-Energy Projects,ES
+SA172,Like-for-Like Energy Consumption,ES
+SA173,Like-for-Like Water Withdrawals,ES
+SA176,Pct of Floor Area Covered for REIT Energy Data,ES
+SA178,Pct of Portfolio With Sustnabilty Certficatn,ES
+SA179,Number of Buildings With An Energy Rating,ES
+SA180,Number of Buildings With Sustnabilty Certification,ES
+SA181,Percentage of Portfolio With An Energy Rating,ES
+SA182,Portfolio Energy Reduction Target,ES
+SA186,Green Lease Initiatives,ES
+SA188,Responsible Property Investment Policy,ES
+SA190,Controlled Company (Y/N),G
+SA191,Audit Committee Financial Expert,G
+SA192,Company Has Anti - Pledging Policy,G
+SA193,Company Has Executive Share Ownership Guidelines,G
+SA194,Action By Written Consent,G
+SA196,"Director Vote Policy (1-Majority,
+  2-Plurality)",G
+SA197,Proxy Access Policy (Y/N),G
+SA200,Percentage Freshwater of Total Water Withdrawn,ES
+SA201,Total Recordable Incident Rate - Workforce,ES
+SA202,Lost Time Incident Rate - Workforce,ES
+SA203,Occupational Disease Cases,ES
+SA204,Occupational Disease Rate - Employees,ES
+SA205,Occupational Disease Rate - Contractors,ES
+SA206,Occupational Disease Rate - Workforce,ES
+SA207,Near Miss Frequency Rate - Workforce,ES
+SA208,Vehicle Incident Rate - Workforce,ES
+SA215,Number of Significant Spills,ES
+SA216,"Amount Of Fines For Bribery And
+  Corruption",ES
+SA217,Amount of Fines For Data Breaches,ES
+SA218,Amount Of Fines For Product Safety,ES
+SA220,Pct Data Breaches Personal Id Info,ES
+SA227,Percentage of Tailings Recycled,ES
+SA229,Counterfeit Parts Detected,ES
+SA231,Number of Significant Environmental Fines,ES
+SA245,Grid Electricity Used,ES
+SA279,LFL Percentage Change Energy Consumption,ES
+SA292,"LFL Percentage Change Water
+  Withdrawals",ES
+SA299,Portfolio Water Reduction Target,ES
+SA303,Number of Certified Water Fixtures,ES
+SA304,Average Home Energy Rating Score,ES
+SA305,Number of Projects For Climate Change Mitigation,ES
+SA319,Percentage Minorities IT Engineering,ES
+SA329,Number of Company Facilities Audited,ES
+SA330,Percentage of Company Facilities Audited,ES
+SA332,Percentage of Company Facilities Non-Compliance,ES
+SA333,Number of Company Facilities Non-Compliance,ES
+SA334,Number of Fines for Health and Safety,ES
+SA335,"Amount Of Fines For Health And
+  Safety",ES
+SA336,"Data Centers Environmental
+  Sustainability",ES
+SA337,Number of Requests For User Information,ES
+SA338,Number of Users whose Information was Requested,ES
+SA339,Percentage User Info Requests Resulted Disclosure,ES
+SA340,Number of Government Requests To Remove Content,ES
+SA341,Number of Customers Affected By Data Breaches,ES
+SA342,"Company Discloses Employee
+  Engagement Score",ES
+SA343,Number of Service Disruptions,ES
+SA344,Customer Downtime,ES
+SA345,Weight Materials Recovered Through Take Back Prog,ES
+SA346,Materials Recovered That Were Recycled,ES
+SA347,Percentage Recycled of Materials Recovered,ES
+SA348,Net Neutrality Policy,ES
+SA349,Cybersecurity Risk Management,ES
+SA351,Number Models 5 Star NCAP Safety Rating,ES
+SA352,Percentage Models 5 Star NCAP Safety Rating Fleet,ES
+SA353,Number of Zero Emissions Vehicles Sold,ES
+SA354,Number of Hybrid Vehicles Sold,ES
+SA355,Number of Plug-in Hybrids Sold,ES
+SA356,"Number of Hybrid or Plug in
+  Vehicles Sold",ES
+SA359,Amount of Significant Environmental Fines,ES
+SA361,Amount of Significant Spills,ES
+SA365,Number of Aviation Accidents,ES
+SA366,Number of Aviation Safety Actions,ES
+SA367,Has Forestry Standard Suspended Terminated FY,ES
+SA369,Wastewater Treated,ES
+SA370,"Percentage of Fleet with Ballast
+  Treatment",ES
+SA373,Number of Third Party Accidents,ES
+SA374,Number of Recommended Violation Defects,ES
+SA376,Railway Integrity,ES
+SA380,"Area Forestland Protected
+  Conservation Status",ES
+SA382,"Average Recyclability Rate of
+  Products",ES
+SA383,Percentage Suppliers Compliance Wastewater Stds,ES
+SA384,Number Critical Suppliers Completed Higg Index FEM,ES
+SA385,Percentage Crtcl Suppliers Completed Higg Idx FEM,ES
+SA390,Number of Suppliers in Non Compliance,ES
+SA393,Commodity Sourcing ESG Risks Discsd,ES
+SA394,Zero Discharge Hazardous Chemicals Prog Commitment,ES
+SA397,Green Chemistry Principles Used,ES
+SA398,Total Weight of Packaging,ES
+SA399,Packaging from Recycled Materials,ES
+SA400,Percentage Packaging from Recycled Materials,ES
+SA402,"Percentage of Recyclable or
+  Compostable Packaging",ES
+SA403,Amount of Palm Oil Sourced,ES
+SA404,Percentage Palm Oil Sourced Through RSPO,ES
+SA405,Number Products Third Party Sustainability Certs,ES
+SA406,Percentage Products Third Party Stbly Certs,ES
+SA407,Refrigerant Emissions,ES
+SA408,Amount of Food Waste Generated,ES
+SA409,Percentage of Food Waste Diverted,ES
+SA410,Number of Food Safety Violations,ES
+SA411,Number of Food Safety Inspections,ES
+SA412,Number of Violtns of Labeling and Marktng Regltns,ES
+SA413,Responsible Labeling Policy,ES
+SA414,Animal Welfare Policy,ES
+SA416,Offers Genetically Modified Organism Free Altrntvs,ES
+SA417,Percentage of Eggs Sold from Cage Free Sources,ES
+SA418,Pct of Pork Sold from Gestation Crate Free Sources,ES
+SA419,Investigated for Food Safety by National Regltrs,ES
+SA420,Portion Control Policy,ES
+SA421,Responsible Advertising Policy,ES
+SA422,Comp Aligns with WHO Frmwrk Conv on Tobcco Ctrl,ES
+SA423,Num of Comp Facs GFSI Fd Safety Aud Cndctd,ES
+SA424,Num of Comp Facs Aud to GFSI Fd Safety Aud,ES
+SA425,Pct of Comp Facs Aud / Certif to the GFSI,ES
+SA426,Num Comp Facs in NonCompl With GFSI Fd Safety Aud,ES
+SA427,Pct Comp Facs in NonCompl With GFSI Fd Safety Aud,ES
+SA428,Pct Ingredients Sourced GFSI Certified Suppliers,ES
+SA429,Commitment to Reduce Pesticide Use,ES
+SA432,"Animal Prodctn Medically Imprtnt
+  Antibiotics Free",ES
+SA434,Positive Nutritional Impact Policy Aligned to Std,ES
+SA435,Pldg for Rspnsbl Ad to Children Alignd With WHO,ES
+SA436,Number Suppliers Compliance Wastewater Standards,ES
+SA437,Issd Rcl due Serious Illness / Inj and / or Ftlty,ES
+SA445,Number of Fines for Marketing and Labeling,ES
+SA446,"Amount of Fines for Marketing and
+  Labeling",ES
+SA447,Comp Adheres to Good Clin Prac Gdlns of the WHO,ES
+SA448,Num Prods on List of Prequalified Medicinal Prods,ES
+SA449,Percentage Change in Average List Price,ES
+SA450,Pct Change in Avg Net Px Across US Prodct Portflo,ES
+SA451,Num Reg Enforcement Actin Respnse to Viltns GMP,ES
+SA452,Prod Traceability and Counterfeit Prevention Plcy,ES
+SA453,Num of Lgl and Reg Fines Assoc With Ctrl Substancs,ES
+SA454,Amt of Lgl and Reg Fines Assoc With Ctrl Substancs,ES
+SA455,Medication Adherence Policy,ES
+SA456,Management of Controlled Substances,ES
+SA457,Transparent Pricing and Consumer Education Policy,ES
+SA459,Enrollees Receiving Value-Based Care Count,ES
+SA461,Pluralism in News Media Content Policy,ES
+SA462,"Responsible Gaming Initiatives /
+  Membership",ES
+SA463,"Prevention of Money Laundering
+  Policy",ES
+SA464,Total District Heating and Cooling,ES
+SA469,Total Like-for-like District Heating and Cooling,ES
+SA474,Pct of Floor Area Covrd by Sustnabilty Certficatn,ES
+SA475,Pct of Floor Area Covered by Energy Certficatn,ES
+SA476,Tenant Energy Consumption,ES
+SA477,Tenant Electricity Consumption,ES
+SA478,Tenant Heating Consumption,ES
+SA479,Tenant Water Consumption,ES
+SA481,"Percentage of Coal Ash Beneficially
+  Used",ES
+SA482,Percentage of Gas Recovered for Energy,ES
+SA483,Company Diversity Target Indicator,ES
+SA487,Financial Products Transparency Policy,ES
+SA489,Var Remunertn Mat Rsk Takers Malus Clawbck Pct,ES
+SA490,Trader Lvl 3 A&L Pricing Cntrl Validtn Pol Dis,ES
+SA491,Financial Inclusion Policy,ES
+SA492,Offers Green Mortgage,ES
+SA493,Num of New Custmrs with First Time Accss to Finnce,ES
+SA494,Number of Partcpnts in Financial Literacy Programs,ES
+SA495,Financial Literacy Programs,ES
+SA496,Targets for Sustainable/ESG Finance,ES
+SA497,Exclusion of Coal Finance,ES
+SA498,Exclusion of Oil Sands Finance,ES
+SA504,UNEP Finnce Init Prncpls of Rspnsbl Bankng Signtry,ES
+SA505,Sustainable Stock Exchange Membership,ES
+SA506,"Exchange has ESG Listing
+  Requirements",ES
+SA508,Incorporates ESG Into the Investment Process,ES
+SA511,"ESG Risks Incorporated in
+  Underwriting",ES
+SA513,"Active
+  Ownership/Engagement/Stewardship Policy",ES
+SA515,Engagements/Proxy Voting Reslts Reprted Pub,ES
+SA517,Net Premiums For Climate,ES
+SA518,Probable Maximum Loss from Weather Events,ES
+SA519,Number of Equator Principles Category A Transctns,ES
+SA520,Number of Equator Principles Category B Transctns,ES
+SA522,"Attrib Lending to Env and Climate
+  Solutions",ES
+SA523,Attributable Lending to Renewable Energy,ES
+SA524,Attributable Lending to Sustainable Transport,ES
+SA525,Attributable Lending to Green Buildings,ES
+SA527,Number of Company Enggmnts in the Reporting Year,ES
+SA529,"Actively Mangd Equity Portfolio
+  Incorp ESG Pct",ES
+SA537,Gender Pay Gap Action Plan,ES
+SA541,Employee Engagement Survey,ES
+SA546,Sponsors STEM Education Programs for Women,ES
+SA558,Company Claims Science-Based Emissions Targets,ES
+SA559,"Company Claims Net Zero Emissions
+  Target",ES
+SA574,Modern Slavery Statement,ES
+SA585,Supply Chain Modern Slavery Assessment,ES
+SA590,Percentage of Green Sustainable Revenue,ES
+SA591,Amount of Green Sustainable Revenue,ES
+SA606,Percentage of Renewable Feedstock,ES
+SA607,Certification for Biomass Feedstock,ES
+SA621,Like-for-like Fuel Consumption,ES
+SA622,Water Withdrwl in Landlord Srvcs and Common Areas,ES
+SA623,Energy Consmptn in Landlrd Srvcs and Common Areas,ES
+SA624,Like-for-like Electricity Consumption,ES
+SA625,"Elec Consumption in Landlrd Srvcs
+  and Commn Areas",ES
+SA626,Fuel Consumption in Landlrd Srvcs and Common Areas,ES
+SA627,Fuel Consumption Sub-metered to Tenants,ES
+SA628,Htng and Coolng in Landlrd Servcs and Commn Areas,ES
+SA630,"Area of Properties Located in 100
+  Year Flood Zones",ES
+SA631,Real Estate Corporate Offices Energy Consumption,ES
+SA632,Real Estate Corp Offices Electricty Consumption,ES
+SA633,Real Estate Corp Offices Heating Cooling Consumptn,ES
+SA634,Real Estate Corporate Offices Water Withdrawal,ES
+SA635,Real Estate Corporate Offices Fuel Consumption,ES
+SA638,Renew Enrgy Use in Landlrd Srvcs and Commn Areas,ES
+SA639,Real Estate Corporate Offices Renewable Energy Use,ES
+SA640,Renewable Energy Use Sub-metered to Tenants,ES
+SA641,Like-for-like Renewable Energy Use,ES
+SA653,"Pct R & D Expnse for Non
+  combustible Tobacco Prods",ES
+SA654,Pct Revenue from Non Combustible Tobacco Prods,ES
+SA658,"Pct Revenue From Prods with Imprvd
+  Nut Attributes",ES
+SA697,Supermajority Bylaw Provision (Y/N),G
+SA706,Artificial Intelligence Ethics Policy,ES
+SA707,Products with Declrble Substances Revenue Pct,ES
+SA708,Products with Declarable Substances Pct,ES
+SA710,Sustainable Fuel Used Pct,ES
+SA712,Safety Related Rework Cost,ES
+SA713,Defect Related Rework Cost,ES
+SA716,Backlog for Hydrocarbon Projects,ES
+SA717,Backlog for Renewable Energy Projects,ES
+SA718,"Backlog Cancllatns for Hydrcrbn
+  Projects",ES
+SA723,Total Landfill Gas Generated,ES
+SA724,Landfill Gas Flared Pct,ES
+SA725,Customers Receiving Recycling Pct,ES
+SA726,Customers Receiving Composting Pct,ES
+SA727,Material Incnrtd that is Hazardous Pct,ES
+SA729,Third Party Waste Material Recycled,ES
+SA730,Third Party Waste Material Composted,ES
+SA731,Third Party Waste Material Incinerated,ES
+SA733,Total Leachate Treated,ES
+SA740,"Customer Satisfaction Survey
+  Conducted",ES
+SA749,CAFE Passenger Vehicles USA,ES
+SA750,CAFE Passenger Vehicles EU,ES
+SA751,CAFE Passenger Vehicles China,ES
+SA752,CAFE Passenger Vehicles Japan,ES
+SA754,CAFE Light Duty Vehicles USA,ES
+SA755,CAFE Light Duty Vehicles EU,ES
+SA756,CAFE Light Duty Vehcls China,ES
+SA757,CAFE Light Duty Vehcls Japan,ES
+SA760,Safety Related Defect Complaints Count,ES
+SA761,Safety Related Defect Complnts Investigated Pct,ES
+SA769,Facilities In 100 Year Flood Zones Count,ES
+SA773,Behavioral Advertising Policy,ES
+SA774,Users Information Used For Secondary Purpose Count,ES
+SA777,Government Content Removal Requests Compliance Pct,ES
+SA815,Anti-Microbial Resistance Policy,ES
+SA816,Bioethics Policy,ES
+SA818,Hazardous Waste Sent To Landfills Percentage,ES
+SA820,"Hazardous Waste Incinerated
+  Percentage",ES
+SA821,Medical Ethics Policy,ES
+SA823,"Access to Prev Care & Wellness
+  Prog Enroll Cnt",ES
+SA824,Access to Prev Care & Wellness Prog Enroll Pct,ES
+SA825,Public Health Risks & Opportunities Discussed,ES
+SA826,Healthcare Access & Affordability Policy,ES
+SA827,Quality Of Care Transparency,ES
+SA828,Number of IUCN Red List Species Affected by Oprtns,ES
+SA829,Area of Operations in ESA,ES
+SA833,ICT is Compliant with Ecodesign Standards,ES
+SA836,Batteries Comply with the App Sustnabilty Rules,ES
+SA843,Vessel Wastewater in Line with MARPOL Standards,ES
+SA873,"Financed Emissions Reported - Scope
+  1+2",ES
+SA874,Financed Emissions Reported - Scope 3,ES
+SA875,Target Year to Exclude Coal Finance,ES
+SA876,Exclusion of Oil & Gas Finance,ES
+SA877,Target Year to Exclude Oil & Gas Finance,ES
+SA878,Exclusion of Non-Certified Palm Oil Finance,ES
+SA879,"Exclusion of Arctic Drilling
+  Finance",ES
+SA884,Value of Coal Lending,ES
+SA887,Value of Oil and Gas Lending,ES
+SA895,Attributable Lending to Energy Efficiency,ES
+SA896,Attributable Lending to Social Impact,ES
+SA897,Sustainable/ESG Lending,ES
+SA898,"Incorporates ESG Screening Into
+  Lend Process",ES
+SA899,Net Zero Financed or Underwriting Emiss Target,ES
+SA900,Net Zero Financed Emissions Target Year,ES
+SA901,GHG/CO2 per Lending,ES
+SA902,GHG/CO2 per AuM,ES
+SA904,GFANZ Signatory,ES
+SA905,PCAF Signatory,ES
+SA906,Poseidon Signatory,ES
+SA907,Equator Principles Category C Transactions Cnt,ES
+SA908,"Financial Climate Stress/Scenario
+  Testing",ES
+SA910,Paris Agreement Capital Transition Assessment,ES
+SA912,"Covered Empls - Investigtns, Cmplnts, Lit Pct",ES
+SA913,"Covered Empls - Investigtns, Cmplnts, Lit Cnt",ES
+SA915,Sustainable/ESG Underwriting,ES
+SA920,UNEP Fin Init Prncpls Sustnble Insurance Sig,ES
+SA921,Exclusion of Coal Investments,ES
+SA922,Target Year to Exclude Coal Investments,ES
+SA923,Exclusion of Oil & Gas Investments,ES
+SA924,Target Year to Exclude Oil & Gas Investments,ES
+SA926,Exclusion of Oil Sands Investments,ES
+SA927,Exclusion of Non-Certif Palm Oil Investments,ES
+SA928,"Exclusion of Arctic Drilling
+  Investments",ES
+SA930,Exclusion of Coal Underwriting,ES
+SA931,Target Year to Exclude Coal Underwriting,ES
+SA932,Exclusion of Oil & Gas Underwriting,ES
+SA933,Target Year to Exclude Oil & Gas Underwriting,ES
+SA935,Exclusion of Oil Sands Underwriting,ES
+SA936,Exclusion of Non-Certif Palm Oil Underwritng,ES
+SA937,Exclusion of Arctic Drilling Underwriting,ES
+SA983,AUDIT_RESTATEMENT_FLAG,G
+SA992,Company Executive or Director Pledged Shares,G
+SB042,On Time Performance Rate Percentage,ES
+SB043,Mishandling Baggage Rate Percentage,ES
+SB046,Deforestation free Supply Chain Target Year,ES
+SB047,No Net Loss Biodiversity Commitment Policy,ES
+SB049,High Carbon Stock Protection Policy,ES
+SB055,No Conversion or Degradation Policy,ES
+SB057,Biodiversity Risks and Opportunities Discussed,ES
+SB059,"Animal Feed From Sustainable
+  Sources Pct",ES
+SB061,IUU Fishing Policy,ES
+SB062,Sustainable Fishing Certification Disclosed,ES
+SB065,Monetary Loss Corrective Actions,ES
+SB066,Nondiscriminatory Mortgage Origination Policy,ES
+SB067,Mortgage Loans in 100 year Flood Zones Count,ES
+SB068,Mortgage Loans in 100 year Flood Zones Value,ES
+SB069,Total Expected Mortgage Loss to Weather Events,ES
+SB070,Mortgage Environmental Risk Policy,ES
+SB071,Water Main Replacement Rate,ES
+SB072,Sanitary Sewer Overflows Count,ES
+SB221,GRSB or BRSL Member Indicator,ES
+SB226,Certified Dairy Sourcer Indicator,ES
+SB229,Palm Oil Estate RSPO Certified Percentage,ES
+SB231,Palm Oil Mills RSPO Certified Percentage,ES
+SB249,Forestland Managed Certified Percentage,ES
+SB252,Exclusion of Highly Hazardous Pesticides Indicator,ES
+ST760,DIRECTOR_SUPPORT_AVG,G
+ST761,DIRECTOR_SUPPORT_MIN,G
+ST762,DIRECTORS_VOTED_COUNT,G
+ST763,DIRECTORS_VOTED_BELOW_90_COUNT,G
+ST768,SAY_PAY_SUPPORT_LEVEL_deduced,G
+ST769,SAY_ON_PAY_PROVISION_deduced,G
+ST772,AUDITOR_SUPPORT_AVG_NUMERIC,G
+ST773,AUDITOR_RATIFICATION_FLAG,G
+XX000,CO2-Weighted Electricity Production,ES
+XX001,Scope 3 Availability,ES

@@ -1,0 +1,31 @@
+{
+  "extraction_time": "2025-09-12T17:46:55.007665",
+  "total_companies": 3608,
+  "total_fields": 645,
+  "total_facts": 4541,
+  "year_range": "2005-2019",
+  "companies_sample": [
+    "A US Equity",
+    "AA US Equity",
+    "AACG US Equity",
+    "AAL US Equity",
+    "AAME US Equity",
+    "AAMI US Equity",
+    "AAOI US Equity",
+    "AAON US Equity",
+    "AAP US Equity",
+    "AAPL US Equity"
+  ],
+  "fields_sample": [
+    "CG002",
+    "CG003",
+    "CG005",
+    "CG006",
+    "CG007",
+    "CG042",
+    "CG043",
+    "CG045",
+    "CG046",
+    "CG047"
+  ]
+}

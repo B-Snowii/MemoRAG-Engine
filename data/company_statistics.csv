@@ -1,0 +1,11 @@
+﻿ticker,company_name,总记录数,最早年份,最晚年份,年份数,指标数,ESG类别
+AA US Equity,Alcoa Corp,409,2006,2019,14,60,ES
+AU US Equity,Anglogold Ashanti Plc,406,2008,2019,12,62,ES
+COP US Equity,ConocoPhillips,463,2005,2019,15,46,ES
+CVX US Equity,Chevron Corp,477,2005,2019,15,49,ES
+DUK US Equity,Duke Energy Corp,361,2006,2019,14,48,ES
+FCX US Equity,Freeport-McMoRan Inc,526,2005,2019,15,67,ES
+HES US Equity,Hess Corp,467,2005,2019,15,48,ES
+NEM US Equity,Newmont Corp,583,2005,2019,15,65,ES
+OXY US Equity,Occidental Petroleum Corp,355,2005,2019,15,44,ES
+XOM US Equity,Exxon Mobil Corp,494,2005,2019,15,51,ES

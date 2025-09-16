@@ -1,0 +1,95 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Database files (keep structure but ignore large data files)
+*.sqlite3
+*.db
+*.sqlite
+
+# Model cache and temporary files
+*.pkl
+*.pickle
+*.cache
+*.tmp
+
+# API Keys and sensitive data
+.env
+config.ini
+secrets.json
+api_keys.txt
+
+# Logs
+*.log
+logs/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Large data files (exclude sample data)
+*.csv
+*.xlsx
+*.json
+data/
+datasets/
+
+# Allow sample data files for testing
+!data/
+!data/*.csv
+!data/*.xlsx
+!data/*.json
+!data/*.md
+
+# Images (keep only essential ones)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+
+# ChromaDB specific
+chroma.sqlite3
+chroma_db/
