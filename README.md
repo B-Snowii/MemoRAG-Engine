@@ -6,7 +6,8 @@
 
 ## 🚀 Overview
 
-MemoRAG-Engine is an intelligent Retrieval-Augmented Generation (RAG) system that combines advanced semantic search with memory management and context awareness. Built with BGE-M3 embedding model and ChromaDB, it demonstrates how to build sophisticated MemoRAG systems with persistent memory and intelligent query processing.
+MemoRAG-Engine is a bilingual, memory-augmented Retrieval-Augmented Generation (RAG) system for ESG analytics. It ingests tabular ESG data from SQL Server into Chroma as row-level embeddings (no document chunking; optional light SQL prefilters by ticker/year/completeness). Retrieval is vector-only with BAAI/bge-m3, followed by metadata-aware re-ranking (validity, field match to extracted company/year/indicator/code, similarity, ESG category). The system supports context carryover and persistent memory, and can generate LLM responses with DeepSeek-V3.1.
+
 
 **Why RAG?** RAG combines LLM reasoning with external knowledge, reduces hallucinations through data-based responses, efficiently handles large knowledge bases, and allows easy knowledge updates without retraining models.
 
@@ -22,14 +23,7 @@ User Query → Query Processor → BGE-M3 Embedding → ChromaDB Search → Post
 
 ## 📊 RAGAS Evaluation Results
 
-Our MemoRAG-Engine system achieved **perfect scores** in all RAGAS metrics:
-
-| Metric | Score |
-|--------|-------|
-| **Context Recall** | 1.0000 |
-| **Faithfulness** | 1.0000 |
-| **Factual Correctness** | 1.0000 |
-| **Overall Score** | 1.0000 |
+Pilot results on a small ESG QA set (n=5): Context Recall 0.98, Faithfulness 0.92, Factual Correctness 0.91.
 
 ## 🚀 Quick Start
 
